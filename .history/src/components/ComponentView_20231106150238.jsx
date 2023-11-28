@@ -1,0 +1,10 @@
+export const ComponentView = () => {
+
+
+    return (
+        <>
+        
+        
+        </>
+    )
+}
